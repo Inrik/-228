@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: blueviolet;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 3px;
+}
+header a {
+     text-decoration: none;
+     color: chocolate;
+}
+main h1 {
+    background-color: brown;
+    color: chocolate;
+    text-align: center;
+}
+footer p {
+    font-family: Chinese Rocks Bold Cyrillic;
+    background-color: aquamarine;
+    border-radius: 5px;
+}
+.f {
+    text-decoration: none;
+    color: grey;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+nav{
+    text-align: center;
+    margin-top: 15px;
+}
+
+.u{
+    background-color: purple;
+    border-radius: 5px;
+    margin-bottom: 3px;
+    padding: 5px px;
+}
